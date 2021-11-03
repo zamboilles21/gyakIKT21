@@ -3,3 +3,4 @@
 # alma
 # levél
 # saját gép bejegyzés
+# Yoai mo
