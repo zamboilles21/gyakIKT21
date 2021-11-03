@@ -2,3 +2,4 @@
 # nothing
 # alma
 # levél
+# konfliktus
